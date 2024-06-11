@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name" translatable="false">Personal Trainer Manager</string>
+    <string name="webClientID" translatable="false">417193103609-t6o9aokj0pmtc4smmo37g8fq9d4en560.apps.googleusercontent.com</string>
+
+    <!-- Facebook application ID and custom URL scheme -->
+    <string name="facebook_application_id" translatable="false">983848856480686</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb983848856480686</string>
+
+    <!-- Multipurpose Strings -->
+    <string name="personalTrainer">Personal Trainer</string>
+    <string name="client">Client</string>
+    <string name="backArrow">Back Arrow</string>
+    <string name="temporary_text">Temporary Text</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_reject">Reject</string>
+    <string name="button_undo">Undo</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_saveToTrainee">Assign to Client</string>
+    <string name="button_close">Close</string>
+    <string name="button_delete">Delete</string>
+    <string name="distance_metres">m</string>
+    <string name="distance_kilometres">km</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="weight_prefix">Weight:</string>
+    <string name="weight_suffix">kg</string>
+    <string name="distance_prefix">Distance:</string>
+    <string name="distance_suffix_metre">m</string>
+    <string name="distance_suffix_km">km</string>
+    <string name="time_prefix">Duration:</string>
+    <string name="time_suffix_h">h</string>
+    <string name="time_suffix_m">m</string>
+    <string name="time_suffix_s">s</string>
+
+    <!-- Navigation Strings -->
+    <string name="navigation_menuDescription">Menu</string>
+    <string name="navigation_backDescription">Back</string>
+    <string name="navigation_drawerTitle">Navigation</string>
+    <string name="navigation_drawer_signOut">Sign Out</string>
+    <string name="navigation_drawer_changeUserType">Switch User Type</string>
+    <string name="navigation_drawer_settings">User Settings</string>
+    <string name="navigation_drawer_linkWithPersonalTrainer">Connect With Personal Trainer</string>
+    <string name="navigation_drawer_linkWithClient">Connect With Client</string>
+    <string name="navigation_drawer_manageClients">Manage Clients</string>
+    <string name="navigation_drawer_manageWorkouts">Manage Workouts</string>
+    <string name="navigation_drawer_enableRequests">Enable Requests</string>
+    <string name="navigation_drawer_disableRequests">Disable Requests</string>
+
+    <!-- Homepage Strings -->
+    <string name="homepage_navigationButton_text">Home</string>
+    <string name="homepage_title">Home</string>
+    <string name="homepage_day_prefix">Today: </string>
+    <string name="homepage_completeSetup_title">Complete setting up your account</string>
+    <string name="homepage_completeSetup_tasksRemaining">Tasks:</string>
+    <string name="homepage_completeSetup_task_setName">Set Name</string>
+    <string name="homepage_todaysWorkout">Today\'s Workout:</string>
+    <string name="homepage_todaysWorkout_noWorkoutSet">No Workout Today</string>
+    <string name="homepage_todaysWorkout_one">Today\'s Workout:</string>
+    <string name="homepage_todaysWorkout_many">Today\'s Workouts:</string>
+    <string name="homepage_todaysWorkout_goToWorkout">Go To Workout</string>
+    <string name="homepage_todaysWorkout_workoutForPrefix">Workout for</string>
+    <string name="homepage_todaysWorkout_exercises">Exercises:</string>
+    <string name="homepage_todaysWorkout_scheduledFor">Start time:</string>
+    <string name="homepage_welcome_prefix">Greetings</string>
+    <string name="homepage_welcome_prefixSetupComplete">Welcome back,</string>
+    <string name="homepage_welcome_welcomeTrainer">You are signed in as a personal trainer.</string>
+    <string name="homepage_welcome_welcomeClient">You are signed in as a trainee.</string>
+    <string name="homepage_linkRequest_title">You have pending link requests</string>
+
+    <!-- Chat Strings -->
+    <string name="chat_navigationButton_text">Chat</string>
+    <string name="chat_title">Chat With Others</string>
+    <string name="chat_noChatsFound">No chats were found. Create a chat below.</string>
+    <string name="chat_createNewChat">Create Chat</string>
+    <string name="chat_sentAt_prefix">Sent at</string>
+    <string name="chat_sendMessage_description">Send Message</string>
+    <string name="chat_createNewChat_noLinksToChat_client">No links found. Link to a client below.</string>
+    <string name="chat_createNewChat_noLinksToChat_trainer">No links found. Link to a trainer below.</string>
+
+    <!-- Workout Strings -->
+    <string name="workout_navigationButton_text">Workout</string>
+    <string name="workout_title">Workout</string>
+
+    <!-- Calendar Strings -->
+    <string name="calendar_navigationButton_text">Calendar</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="calendar_day_today">Today</string>
+    <string name="calendar_day_tomorrow">Tomorrow</string>
+    <string name="calendar_day_monday">Monday</string>
+    <string name="calendar_day_tuesday">Tuesday</string>
+    <string name="calendar_day_wednesday">Wednesday</string>
+    <string name="calendar_day_thursday">Thursday</string>
+    <string name="calendar_day_friday">Friday</string>
+    <string name="calendar_day_saturday">Saturday</string>
+    <string name="calendar_day_sunday">Sunday</string>
+    <string name="calendar_day_nextWeek">next week</string>
+    <string name="calendar_dayContent_noWorkoutsToday">No workouts planned</string>
+    <string name="calendar_workout_startTimePrefix">Start Time:</string>
+    <string name="calendar_workout_exercises_title">Exercises</string>
+    <string name="calendar_workout_exercises_noExercises">Exercises</string>
+    <string name="calendar_workout_edit">Edit</string>
+    <string name="calendar_workout_delete">Delete</string>
+    <string name="calendar_workout_delete_areYouSure_title">Are you sure you want to delete</string>
+    <string name="calendar_workout_delete_areYouSure_content">This cannot be undone.</string>
+    <string name="calendar_addNewWorkout">Add New Workout</string>
+    <string name="calendar_workoutView_title">Edit Workout</string>
+    <string name="calendar_workoutView_name">Workout name</string>
+    <string name="calendar_workoutView_description">Workout description</string>
+    <string name="calendar_workoutView_startDate">Workout start date</string>
+    <string name="calendar_workoutView_startTime">Workout time</string>
+    <string name="calendar_workoutView_repeats">Repeating</string>
+    <string name="calendar_workoutView_button_changeDate">Change date</string>
+    <string name="calendar_workoutView_button_changeTime">Change time</string>
+
+    <!-- Create New Workout Strings -->
+    <string name="createWorkout_title">Create Workout</string>
+    <string name="createWorkout_cannotCreateWorkoutWithoutExercise">Cannot create a workout with no exercises</string>
+    <string name="createWorkout_cannotCreateWorkoutWithoutName">Cannot create a workout without a name</string>
+    <string name="createWorkout_exercises">Exercises</string>
+    <string name="createWorkout_noExercises">No Exercises Added</string>
+    <string name="createWorkout_addNewExercise">Create Exercise</string>
+    <string name="createWorkout_createExercise_title">Create Exercise</string>
+    <string name="createWorkout_createExercise_time">Add Timer</string>
+    <string name="createWorkout_createExercise_distance">Add Distance</string>
+    <string name="createWorkout_createExercise_weight">Add Weight</string>
+    <string name="createWorkout_createExercise_weightSuffixKG">kg</string>
+    <string name="createWorkout_createExercise_weightSuffixLB">lb</string>
+    <string name="createWorkout_createExercise_name">Name</string>
+    <string name="createWorkout_assignToClient_title">Assign to Client</string>
+    <string name="createWorkout_assignToClient_noClients">No clients found.</string>
+
+    <!-- Manage Workouts Strings -->
+    <string name="manageWorkouts_title">Manage Workouts</string>
+
+    <!-- Edit Workout Strings -->
+    <string name="editWorkout_title">Edit Workout</string>
+
+    <!-- Manage Clients Strings -->
+    <string name="manageClients_title">Manage Clients</string>
+
+    <!-- Settings Strings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme_title">App Theme</string>
+    <string name="settings_theme_system">Use System Theme</string>
+    <string name="settings_theme_switch">Dark Theme</string>
+    <string name="settings_changeUserName_button">Change Username</string>
+    <string name="settings_changeUserName_title">Change Username</string>
+    <string name="settings_changeUserName_notLongEnough">New name must be 3 or more characters.</string>
+    <string name="settings_changeUserName_error">Failed to save new name to user.</string>
+
+    <!-- Choose User Type Strings -->
+    <string name="chooseUserType_title">Choose your user type</string>
+    <string name="chooseUserType_changeUserType_content_title">Features:</string>
+    <string name="chooseUserType_changeUserType_personalTrainer">Switch to Personal Trainer</string>
+    <string name="chooseUserType_changeUserType_personalTrainer_content_1">Chat with clients about workouts.</string>
+    <string name="chooseUserType_changeUserType_personalTrainer_content_2">Plan and coordinate future workouts and exercises.</string>
+    <string name="chooseUserType_changeUserType_personalTrainer_content_3">View client progress in realtime.</string>
+    <string name="chooseUserType_changeUserType_client">Switch to Client</string>
+    <string name="chooseUserType_changeUserType_client_content_1">Discuss your needs with a personal trainer.</string>
+    <string name="chooseUserType_changeUserType_client_content_2">View and edit your workouts and exercises on a live calendar.</string>
+    <string name="chooseUserType_changeUserType_client_content_3">Carry out your workouts in real-time with a helpful, interactive guide.</string>
+
+    <!-- Connect With PT Strings -->
+    <string name="connectWithOther_title">Connect With Another User</string>
+    <string name="connectWithOther_filterTag">Filter:</string>
+    <string name="connectWithOther_filterDescription">Filter Selection</string>
+    <string name="connectWithOther_linkAlreadySentTrainer">Link already sent to trainer. Tap to retract request.</string>
+    <string name="connectWithOther_linkAlreadySentClient">Link already sent to client. Tap to retract request.</string>
+    <string name="connectWithOther_alreadyLinkedTrainer">Already linked with trainer</string>
+    <string name="connectWithOther_alreadyLinkedClient">Already linked with client</string>
+    <string name="connectWithOther_noTrainersFound">No trainers found with current filter</string>
+    <string name="connectWithOther_noClientsFound">No clients found with current filter</string>
+    <string name="connectWithOther_snackbar_linkSent">Request to link has been sent</string>
+    <string name="connectWithOther_snackbar_linkDeleted">Link request has been removed</string>
+
+    <!-- Connect With Client Strings -->
+    <string name="connectWithClient_title">Connect With Clients</string>
+
+
+</resources>
