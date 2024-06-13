@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Personal Trainer Manager</string>
-    <string name="webClientID" translatable="false">417193103609-t6o9aokj0pmtc4smmo37g8fq9d4en560.apps.googleusercontent.com</string>
+    <string name="webClientID" translatable="false">secret</string>
 
     <!-- Facebook application ID and custom URL scheme -->
     <string name="facebook_application_id" translatable="false">983848856480686</string>
